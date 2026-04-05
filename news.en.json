@@ -7,17 +7,17 @@
     "url": "https://store.steampowered.com/news/app/123456/view/789"
   },
   {
-    "id": "3",
-    "title": "v0.0.3 Released!",
-    "summary": "Major balance overhaul and new prestige mechanics.",
-    "date": "2026-04-05",
-    "url": "https://store.steampowered.com/news/app/123456/view/789"
-  },
-  {
     "id": "2",
     "title": "v0.0.2 Released!",
     "summary": "Major balance overhaul and new prestige mechanics.",
     "date": "2026-04-04",
+    "url": "https://store.steampowered.com/news/app/123456/view/789"
+  },
+  {
+    "id": "3",
+    "title": "v0.0.3 Released!",
+    "summary": "Major balance overhaul and new prestige mechanics.",
+    "date": "2026-04-05",
     "url": "https://store.steampowered.com/news/app/123456/view/789"
   },
 ]
