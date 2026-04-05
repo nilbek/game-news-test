@@ -1,9 +1,9 @@
 [
   {
-    "id": "3",
-    "title": "v0.0.3 Yayında!",
-    "summary": "Biraz daha önemli geliştirmeler yapıldı.",
-    "date": "2026-04-05",
+    "id": "1",
+    "title": "v0.0.1 Yayında!",
+    "summary": "Önemli geliştirmeler yaıldı.",
+    "date": "2026-04-01",
     "url": "https://store.steampowered.com/news/app/123456/view/789"
   },
   {
@@ -14,10 +14,10 @@
     "url": "https://store.steampowered.com/news/app/123456/view/789"
   },
   {
-    "id": "1",
-    "title": "v0.0.1 Yayında!",
-    "summary": "Önemli geliştirmeler yaıldı.",
-    "date": "2026-04-01",
+    "id": "3",
+    "title": "v0.0.3 Yayında!",
+    "summary": "Biraz daha önemli geliştirmeler yapıldı.",
+    "date": "2026-04-05",
     "url": "https://store.steampowered.com/news/app/123456/view/789"
   }
 ]
